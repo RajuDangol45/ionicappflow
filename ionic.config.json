@@ -1,0 +1,7 @@
+{
+  "name": "ionicappflow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
